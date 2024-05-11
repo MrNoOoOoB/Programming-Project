@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{499594F5-DC38-4065-99A1-9A87381A60B8}|Tic Tac Toe\\TicTacToe.csproj|c:\\users\\mr-nooob\\source\\repos\\tic tac toe\\tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499594F5-DC38-4065-99A1-9A87381A60B8}|Tic Tac Toe\\TicTacToe.csproj|solutionrelative:tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41CBB84-00B2-4873-B690-1388641022A3}|BoardLogic\\BoardLogic.csproj|c:\\users\\mr-nooob\\source\\repos\\tic tac toe\\boardlogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41CBB84-00B2-4873-B690-1388641022A3}|BoardLogic\\BoardLogic.csproj|solutionrelative:boardlogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|c:\\users\\mr-nooob\\source\\repos\\tic tac toe\\tictactoegui\\onevone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|solutionrelative:tictactoegui\\onevone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\tictactoegui\\onevone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|solutionrelative:tictactoegui\\onevone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\tictactoegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|solutionrelative:tictactoegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\tictactoegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AC11E3-46EA-4AD6-89E2-80846F542A94}|TicTacToeGUI\\TicTacToeGUI.csproj|solutionrelative:tictactoegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Program.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Program.cs",
+              "ToolTip": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Program.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:40:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\BoardLogic\\Board.cs",
+              "RelativeDocumentMoniker": "BoardLogic\\Board.cs",
+              "ToolTip": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\BoardLogic\\Board.cs",
+              "RelativeToolTip": "BoardLogic\\Board.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:39:40.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "oneVone.cs",
+              "DocumentMoniker": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\oneVone.cs",
+              "RelativeDocumentMoniker": "TicTacToeGUI\\oneVone.cs",
+              "ToolTip": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\oneVone.cs",
+              "RelativeToolTip": "TicTacToeGUI\\oneVone.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:39:37.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "TicTacToeGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\Form1.cs",
+              "RelativeToolTip": "TicTacToeGUI\\Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:03:00.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "TicTacToeGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "TicTacToeGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:27:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "oneVone.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\oneVone.cs",
+              "RelativeDocumentMoniker": "TicTacToeGUI\\oneVone.cs",
+              "ToolTip": "C:\\Users\\MR-NoOoB\\source\\repos\\Tic Tac Toe\\TicTacToeGUI\\oneVone.cs [Design]",
+              "RelativeToolTip": "TicTacToeGUI\\oneVone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:37:49.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

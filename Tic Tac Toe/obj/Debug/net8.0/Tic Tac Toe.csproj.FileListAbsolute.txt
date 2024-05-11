@@ -1,0 +1,57 @@
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.exe
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.deps.json
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.runtimeconfig.json
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.pdb
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\refint\Tic Tac Toe.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.pdb
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\ref\Tic Tac Toe.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.Azure.Pipelines.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.TeamFoundation.Common.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\Tic Tac .A5C522A8.Up2Date

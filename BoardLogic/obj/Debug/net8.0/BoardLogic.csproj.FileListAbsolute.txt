@@ -1,0 +1,11 @@
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\bin\Debug\net8.0\BoardLogic.deps.json
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\bin\Debug\net8.0\BoardLogic.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\bin\Debug\net8.0\BoardLogic.pdb
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\BoardLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\BoardLogic.AssemblyInfoInputs.cache
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\BoardLogic.AssemblyInfo.cs
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\BoardLogic.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\refint\BoardLogic.dll
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\BoardLogic.pdb
+C:\Users\MR-NoOoB\source\repos\Tic Tac Toe\BoardLogic\obj\Debug\net8.0\ref\BoardLogic.dll
